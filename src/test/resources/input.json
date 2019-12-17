@@ -1,0 +1,1090 @@
+[
+  {
+    "doctor": {
+      "firstName": "Terrill",
+      "lastName": "Steuber"
+    },
+    "durationInMinutes": 12,
+    "time": "2019-12-16 09:51:00",
+    "service": {
+      "name": "Podiatry",
+      "price": 2491
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "3fa34a96-c98f-4e8a-9915-2814c17fd5bc"
+  },
+  {
+    "doctor": {
+      "firstName": "Russel",
+      "lastName": "Wisozk"
+    },
+    "durationInMinutes": 12,
+    "time": "2021-12-16 03:54:00",
+    "service": {
+      "name": "Podiatry",
+      "price": 2491
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "2deb1923-13d0-45ff-8bb7-5cce17d72bda"
+  },
+  {
+    "doctor": {
+      "firstName": "Noemi",
+      "lastName": "Price"
+    },
+    "durationInMinutes": 5,
+    "time": "2019-12-16 09:45:00",
+    "service": {
+      "name": "Enema",
+      "price": 1939
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "a5c83e2f-e485-437e-bc68-277ad70f094a"
+  },
+  {
+    "doctor": {
+      "firstName": "Terrill",
+      "lastName": "Steuber"
+    },
+    "durationInMinutes": 11,
+    "time": "2019-12-16 09:51:00",
+    "service": {
+      "name": "Enema",
+      "price": 1939
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "0004d06c-e707-4bbd-a90d-6032b04a1d28"
+  },
+  {
+    "doctor": {
+      "firstName": "Katelin",
+      "lastName": "Grady"
+    },
+    "durationInMinutes": 14,
+    "time": "2019-12-16 10:09:00",
+    "service": {
+      "name": "Podiatry",
+      "price": 2491
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "9b0b8d03-f0f6-455b-9eaf-0b7390cbcd60"
+  },
+  {
+    "doctor": {
+      "firstName": "Katelin",
+      "lastName": "Grady"
+    },
+    "durationInMinutes": 15,
+    "time": "2019-12-16 10:09:00",
+    "service": {
+      "name": "Physiotherapy consultation",
+      "price": 9317
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "98f7ed6a-e57c-4f52-8b6f-724bbbd7d1c6"
+  },
+  {
+    "doctor": {
+      "firstName": "Ara",
+      "lastName": "Krajcik"
+    },
+    "durationInMinutes": 10,
+    "time": "2019-12-16 01:58:00",
+    "service": {
+      "name": "Enema",
+      "price": 1939
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "be8cf548-f75f-4750-ae2a-95ac865a66ce"
+  },
+  {
+    "doctor": {
+      "firstName": "Russel",
+      "lastName": "Wisozk"
+    },
+    "durationInMinutes": 10,
+    "time": "2021-12-20 03:54:00",
+    "service": {
+      "name": "Enema",
+      "price": 1939
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "9fad2506-70c3-4d72-8d18-26716460a714"
+  },
+  {
+    "doctor": {
+      "firstName": "Hazel",
+      "lastName": "Lakin"
+    },
+    "durationInMinutes": 12,
+    "time": "2021-12-20 02:59:00",
+    "service": {
+      "name": "Annual check up",
+      "price": 100
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "aa4e0c4a-6597-4cd9-92af-533bc424e489"
+  },
+  {
+    "doctor": {
+      "firstName": "Zack",
+      "lastName": "Hirthe"
+    },
+    "durationInMinutes": 15,
+    "time": "2019-12-16 01:04:00",
+    "service": {
+      "name": "Discolored butthole flaps inspection",
+      "price": 9901
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "ef5e990a-4121-4cc2-9eba-41c09f362624"
+  },
+  {
+    "doctor": {
+      "firstName": "Russel",
+      "lastName": "Wisozk"
+    },
+    "durationInMinutes": 6,
+    "time": "2019-12-16 03:54:00",
+    "service": {
+      "name": "Hip replacement",
+      "price": 4198
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "92d55b04-4973-4da2-8d38-bddbecbb304c"
+  },
+  {
+    "doctor": {
+      "firstName": "Russel",
+      "lastName": "Wisozk"
+    },
+    "durationInMinutes": 6,
+    "time": "2019-12-16 03:54:00",
+    "service": {
+      "name": "Cardiology consultation",
+      "price": -1
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "be40b148-e594-41d5-84ee-7add38c4fa72"
+  },
+  {
+    "doctor": {
+      "firstName": "Hazel",
+      "lastName": "Lakin"
+    },
+    "durationInMinutes": 8,
+    "time": "2019-12-16 02:59:00",
+    "service": {
+      "name": "Podiatry",
+      "price": 2491
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "b908461e-b6fc-491e-bbdb-9e80a0a316dd"
+  },
+  {
+    "doctor": {
+      "firstName": "Terrill",
+      "lastName": "Steuber"
+    },
+    "durationInMinutes": 8,
+    "time": "2019-12-16 09:51:00",
+    "service": {
+      "name": "Counselling",
+      "price": -1
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "b364611c-4b50-429d-b8b9-df2ecf44864a"
+  },
+  {
+    "doctor": {
+      "firstName": "Zack",
+      "lastName": "Hirthe"
+    },
+    "durationInMinutes": 10,
+    "time": "2019-12-16 01:04:00",
+    "service": {
+      "name": "Physiotherapy consultation",
+      "price": 9317
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "609ca28e-9c52-492f-9f5d-4ab84c9d9c9e"
+  },
+  {
+    "doctor": {
+      "firstName": "Holden",
+      "lastName": "Kemmer"
+    },
+    "durationInMinutes": 9,
+    "time": "2019-12-16 03:58:00",
+    "service": {
+      "name": "Flu shot",
+      "price": 6945
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "43823118-5810-4446-85e2-c00d1e122979"
+  },
+  {
+    "doctor": {
+      "firstName": "Noemi",
+      "lastName": "Price"
+    },
+    "durationInMinutes": 10,
+    "time": "2019-12-16 09:45:00",
+    "service": {
+      "name": "Hip replacement",
+      "price": 4198
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "ea559be0-f51b-433e-9b37-37ffe95dac56"
+  },
+  {
+    "doctor": {
+      "firstName": "Tabitha",
+      "lastName": "Hane"
+    },
+    "durationInMinutes": 12,
+    "time": "2019-12-16 05:07:00",
+    "service": {
+      "name": "Flu shot",
+      "price": 6945
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "c1040054-04f8-478a-b0a3-d6ce05c3f882"
+  },
+  {
+    "doctor": {
+      "firstName": "Katelin",
+      "lastName": "Grady"
+    },
+    "durationInMinutes": 11,
+    "time": "2021-12-20 10:09:00",
+    "service": {
+      "name": "Sports physical",
+      "price": 8675
+    },
+    "location": {
+      "name": "New York City Clinic",
+      "timeZoneCode": "America/New_York"
+    },
+    "id": "fe916470-1866-400a-a482-01ca278141fa"
+  },
+  {
+    "doctor": {
+      "firstName": "Hazel",
+      "lastName": "Lakin"
+    },
+    "durationInMinutes": 14,
+    "time": "2019-12-16 02:59:00",
+    "service": {
+      "name": "IUD Removal",
+      "price": -1
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "b5b2dcd1-640f-48dc-9f5e-d28baa0b0976"
+  },
+  {
+    "doctor": {
+      "firstName": "Hazel",
+      "lastName": "Lakin"
+    },
+    "durationInMinutes": 11,
+    "time": "2019-12-16 02:59:00",
+    "service": {
+      "name": "Annual check up",
+      "price": -1
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "84c010e5-556c-42c6-9c7e-bec34a0deb11"
+  },
+  {
+    "doctor": {
+      "firstName": "Deborah",
+      "lastName": "Shanahan"
+    },
+    "durationInMinutes": 11,
+    "time": "2019-12-16 10:50:00",
+    "service": {
+      "name": "Annual check up",
+      "price": -1
+    },
+    "location": {
+      "name": "New York City Clinic",
+      "timeZoneCode": "America/New_York"
+    },
+    "id": "6af35fa4-276a-4caa-a314-63784dffd50e"
+  },
+  {
+    "doctor": {
+      "firstName": "Katelin",
+      "lastName": "Grady"
+    },
+    "durationInMinutes": 15,
+    "time": "2019-12-16 10:09:00",
+    "service": {
+      "name": "Teeth cleaning",
+      "price": 9382
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "058b291a-fbbc-43d7-ace0-65b40fa2488e"
+  },
+  {
+    "doctor": {
+      "firstName": "Noemi",
+      "lastName": "Price"
+    },
+    "durationInMinutes": 5,
+    "time": "2019-12-16 09:45:00",
+    "service": {
+      "name": "Annual check up",
+      "price": -1
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "c71026ce-5234-486b-b5d6-62e49a2551e9"
+  },
+  {
+    "doctor": {
+      "firstName": "Zack",
+      "lastName": "Hirthe"
+    },
+    "durationInMinutes": 5,
+    "time": "2019-12-16 01:04:00",
+    "service": {
+      "name": "Counselling",
+      "price": -1
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "44681960-0089-4807-9958-c2c64a851476"
+  },
+  {
+    "doctor": {
+      "firstName": "Holden",
+      "lastName": "Kemmer"
+    },
+    "durationInMinutes": 12,
+    "time": "2021-12-20 03:58:00",
+    "service": {
+      "name": "Enema",
+      "price": 1939
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "8b74e74a-7348-4af9-9487-3673a9268160"
+  },
+  {
+    "doctor": {
+      "firstName": "Ara",
+      "lastName": "Krajcik"
+    },
+    "durationInMinutes": 5,
+    "time": "2019-12-16 01:58:00",
+    "service": {
+      "name": "Discolored butthole flaps inspection",
+      "price": 9901
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "7af22879-7eb2-48d2-94e2-2790f0a0d748"
+  },
+  {
+    "doctor": {
+      "firstName": "Holden",
+      "lastName": "Kemmer"
+    },
+    "durationInMinutes": 8,
+    "time": "2019-12-16 03:58:00",
+    "service": {
+      "name": "Counselling",
+      "price": -1
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "e97a6f67-7567-4ff5-bb0d-eb55e5121a80"
+  },
+  {
+    "doctor": {
+      "firstName": "Deborah",
+      "lastName": "Shanahan"
+    },
+    "durationInMinutes": 13,
+    "time": "2019-12-16 10:50:00",
+    "service": {
+      "name": "IUD Removal",
+      "price": -1
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "e0c5a3ac-42e5-4211-98b8-34d5ed7ca520"
+  },
+  {
+    "doctor": {
+      "firstName": "Tabitha",
+      "lastName": "Hane"
+    },
+    "durationInMinutes": 15,
+    "time": "2019-12-16 05:07:00",
+    "service": {
+      "name": "Physiotherapy consultation",
+      "price": 9317
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "59326217-b795-4a8f-847e-28c1a34247c1"
+  },
+  {
+    "doctor": {
+      "firstName": "Ara",
+      "lastName": "Krajcik"
+    },
+    "durationInMinutes": 5,
+    "time": "2019-12-16 01:58:00",
+    "service": {
+      "name": "Hip replacement",
+      "price": 4198
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "5f769486-c95e-4d4b-993b-b09d9cd287a3"
+  },
+  {
+    "doctor": {
+      "firstName": "Zack",
+      "lastName": "Hirthe"
+    },
+    "durationInMinutes": 13,
+    "time": "2019-12-16 01:04:00",
+    "service": {
+      "name": "IUD Removal",
+      "price": -1
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "450be5b9-e929-40e1-9db3-938da7ab5d96"
+  },
+  {
+    "doctor": {
+      "firstName": "Tabitha",
+      "lastName": "Hane"
+    },
+    "durationInMinutes": 20,
+    "time": "2019-12-16 05:07:00",
+    "service": {
+      "name": "Annual check up",
+      "price": -1
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "8715d91f-92d3-4299-872e-a721505c3704"
+  },
+  {
+    "doctor": {
+      "firstName": "Tabitha",
+      "lastName": "Hane"
+    },
+    "durationInMinutes": 13,
+    "time": "2019-12-16 05:07:00",
+    "service": {
+      "name": "Annual check up",
+      "price": -1
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "a265b9df-51ba-4664-9503-73f4efef67bd"
+  },
+  {
+    "doctor": {
+      "firstName": "Ara",
+      "lastName": "Krajcik"
+    },
+    "durationInMinutes": 14,
+    "time": "2019-12-16 01:58:00",
+    "service": {
+      "name": "Discolored butthole flaps inspection",
+      "price": 9901
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "ec17ee3c-23de-4ed3-b635-8cb51f23b1eb"
+  },
+  {
+    "doctor": {
+      "firstName": "Tabitha",
+      "lastName": "Hane"
+    },
+    "durationInMinutes": 13,
+    "time": "2019-12-21 05:07:00",
+    "service": {
+      "name": "X-Ray",
+      "price": 9427
+    },
+    "location": {
+      "name": "New York City Clinic",
+      "timeZoneCode": "America/New_York"
+    },
+    "id": "da007f94-6ea2-43d3-a56e-90d98572f051"
+  },
+  {
+    "doctor": {
+      "firstName": "Terrill",
+      "lastName": "Steuber"
+    },
+    "durationInMinutes": 8,
+    "time": "2019-12-16 09:51:00",
+    "service": {
+      "name": "Podiatry",
+      "price": 2491
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "792f8d99-faf7-4a24-8d28-842d13a18d47"
+  },
+  {
+    "doctor": {
+      "firstName": "Deborah",
+      "lastName": "Shanahan"
+    },
+    "durationInMinutes": 15,
+    "time": "2019-12-16 10:50:00",
+    "service": {
+      "name": "Counselling",
+      "price": -1
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "0ec96c0f-2fa8-4c97-aa12-8d2ae6f17b30"
+  },
+  {
+    "doctor": {
+      "firstName": "Russel",
+      "lastName": "Wisozk"
+    },
+    "durationInMinutes": 10,
+    "time": "2019-12-16 03:54:00",
+    "service": {
+      "name": "Flu shot",
+      "price": 6945
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "1e90d9be-30f5-4005-9682-5cd5f5cfad35"
+  },
+  {
+    "doctor": {
+      "firstName": "Holden",
+      "lastName": "Kemmer"
+    },
+    "durationInMinutes": 12,
+    "time": "2019-12-16 03:58:00",
+    "service": {
+      "name": "Enema",
+      "price": 1939
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "9c3a83f3-c373-4898-b12d-45ffa7403957"
+  },
+  {
+    "doctor": {
+      "firstName": "Zack",
+      "lastName": "Hirthe"
+    },
+    "durationInMinutes": 6,
+    "time": "2019-12-16 01:04:00",
+    "service": {
+      "name": "Discolored butthole flaps inspection",
+      "price": 9901
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "91eef39a-a351-4aad-8c81-4e2d5fa7854e"
+  },
+  {
+    "doctor": {
+      "firstName": "Deborah",
+      "lastName": "Shanahan"
+    },
+    "durationInMinutes": 6,
+    "time": "2019-12-16 10:50:00",
+    "service": {
+      "name": "Discolored butthole flaps inspection",
+      "price": 9901
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "866a1c1a-3cee-402b-8d81-2d59b497c2ae"
+  },
+  {
+    "doctor": {
+      "firstName": "Hazel",
+      "lastName": "Lakin"
+    },
+    "durationInMinutes": 6,
+    "time": "2021-12-20 02:59:00",
+    "service": {
+      "name": "Enema",
+      "price": 1939
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "1ed06753-358e-4575-814b-a5b018f89b4c"
+  },
+  {
+    "doctor": {
+      "firstName": "Deborah",
+      "lastName": "Shanahan"
+    },
+    "durationInMinutes": 13,
+    "time": "2019-12-16 10:50:00",
+    "service": {
+      "name": "Sports physical",
+      "price": 8675
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "0f107056-788f-4a93-b7fe-0ff6b9407006"
+  },
+  {
+    "doctor": {
+      "firstName": "Katelin",
+      "lastName": "Grady"
+    },
+    "durationInMinutes": 15,
+    "time": "2019-12-16 10:09:00",
+    "service": {
+      "name": "Counselling",
+      "price": -1
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "15845f43-de6b-4843-b4e3-6fb6fe9f4b4d"
+  },
+  {
+    "doctor": {
+      "firstName": "Ara",
+      "lastName": "Krajcik"
+    },
+    "durationInMinutes": 10,
+    "time": "2018-12-20 01:58:00",
+    "service": {
+      "name": "Teeth cleaning",
+      "price": 9382
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "634b468c-a596-4612-91fc-027e50d9e293"
+  },
+  {
+    "doctor": {
+      "firstName": "Holden",
+      "lastName": "Kemmer"
+    },
+    "durationInMinutes": 9,
+    "time": "2019-12-16 03:58:00",
+    "service": {
+      "name": "IUD Removal",
+      "price": -1
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "2fc1fa2f-627d-46ff-ae83-1924d9cc03a5"
+  },
+  {
+    "doctor": {
+      "firstName": "Hazel",
+      "lastName": "Lakin"
+    },
+    "durationInMinutes": 11,
+    "time": "2019-12-16 02:59:00",
+    "service": {
+      "name": "Annual check up",
+      "price": -1
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "84c010e5-556c-42c6-9c7e-bec34a0deb11"
+  },
+  {
+    "doctor": {
+      "firstName": "Ara",
+      "lastName": "Krajcik"
+    },
+    "durationInMinutes": 14,
+    "time": "2019-12-16 01:58:00",
+    "service": {
+      "name": "Cardiology consultation",
+      "price": -1
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "52aa7524-50cb-41db-8658-b709a2d006ae"
+  },
+  {
+    "doctor": {
+      "firstName": "Noemi",
+      "lastName": "Price"
+    },
+    "durationInMinutes": 11,
+    "time": "2019-12-16 09:45:00",
+    "service": {
+      "name": "Hip replacement",
+      "price": 4198
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "e065542b-b8b2-4546-a258-4230968c2b07"
+  },
+  {
+    "doctor": {
+      "firstName": "Russel",
+      "lastName": "Wisozk"
+    },
+    "durationInMinutes": 10,
+    "time": "2019-12-16 03:54:00",
+    "service": {
+      "name": "Annual check up",
+      "price": -1
+    },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "b5c59d20-1512-415e-87c8-b06113a5efe9"
+  },
+  {
+    "doctor": {
+      "firstName": "Holden",
+      "lastName": "Kemmer"
+    },
+    "durationInMinutes": 8,
+    "time": "2019-12-16 03:58:00",
+    "service": {
+      "name": "IUD Removal",
+      "price": -1
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "8a7195a4-1def-4215-9bcf-6354e7e5ca07"
+  },
+  {
+    "doctor": {
+      "firstName": "Terrill",
+      "lastName": "Steuber"
+    },
+    "durationInMinutes": 7,
+    "time": "2019-12-16 09:51:00",
+    "service": {
+      "name": "Flu shot",
+      "price": 6945
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "3cb4d1bf-a539-42cd-afd8-426a38e0e095"
+  },
+  {
+    "doctor": {
+      "firstName": "Deborah",
+      "lastName": "Shanahan"
+    },
+    "durationInMinutes": 7,
+    "time": "2019-12-16 10:50:00",
+    "service": {
+      "name": "IUD Removal",
+      "price": -1
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "d1c1e254-b511-4c32-8558-9d07ec80324a"
+  },
+  {
+    "doctor": {
+      "firstName": "Noemi",
+      "lastName": "Price"
+    },
+    "durationInMinutes": 11,
+    "time": "2019-12-16 09:45:00",
+    "service": {
+      "name": "Hip replacement",
+      "price": 4198
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "e065542b-b8b2-4546-a258-4230968c2b07"
+  },
+  {
+    "doctor": {
+      "firstName": "Terrill",
+      "lastName": "Steuber"
+    },
+    "durationInMinutes": 5,
+    "time": "2019-12-16 09:51:00",
+    "service": {
+      "name": "Podiatry",
+      "price": 2491
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "e37ddc7e-82b8-484e-89e4-bbd6177b7595"
+  },
+  {
+    "doctor": {
+      "firstName": "Katelin",
+      "lastName": "Grady"
+    },
+    "durationInMinutes": 14,
+    "time": "2019-12-16 10:09:00",
+    "service": {
+      "name": "Hip replacement",
+      "price": 4198
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "165aeb95-fcf8-440f-909d-c4a6d5a78572"
+  },
+  {
+    "doctor": {
+      "firstName": "Hazel",
+      "lastName": "Lakin"
+    },
+    "durationInMinutes": 8,
+    "time": "2019-12-16 02:59:00",
+    "service": {
+      "name": "Enema",
+      "price": 1939
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "81c55b16-2d2f-4a69-b53a-7bacf0c32305"
+  },
+  {
+    "doctor": {
+      "firstName": "Hazel",
+      "lastName": "Lakin"
+    },
+    "durationInMinutes": 8,
+    "time": "2019-12-16 02:59:00",
+    "service": {
+      "name": "Enema",
+      "price": 1939
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "81c55b16-2d2f-4a69-b53a-7bacf0c32305"
+  },
+  {
+    "doctor": {
+      "firstName": "Zack",
+      "lastName": "Hirthe"
+    },
+    "durationInMinutes": 15,
+    "time": "2019-12-16 01:04:00",
+    "service": {
+      "name": "Hip replacement",
+      "price": 4198
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "c803277f-025e-48fe-92d9-87fc47cbeb2f"
+  },
+  {
+    "doctor": {
+      "firstName": "Tabitha",
+      "lastName": "Hane"
+    },
+    "durationInMinutes": 9,
+    "time": "2019-12-16 05:07:00",
+    "service": {
+      "name": "Podiatry",
+      "price": 2491
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "3540a4b8-93a4-43f6-a642-d4626cdd8dbc"
+  },
+  {
+    "doctor": {
+      "firstName": "Noemi",
+      "lastName": "Price"
+    },
+    "durationInMinutes": 9,
+    "time": "2019-12-16 09:45:00",
+    "service": {
+      "name": "Discolored butthole flaps inspection",
+      "price": 9901
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "c0b4531b-b999-4718-b6a5-5112e452f9ab"
+  },
+  {
+    "doctor": {
+      "firstName": "Noemi",
+      "lastName": "Price"
+    },
+    "durationInMinutes": 5,
+    "time": "2019-12-16 09:45:00",
+    "service": {
+      "name": "Hip replacement",
+      "price": 4198
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "90b6645e-6c94-4d9a-b973-7888897a496d"
+  },
+  {
+    "doctor": {
+      "firstName": "Hazel",
+      "lastName": "Lakin"
+    },
+    "durationInMinutes": 14,
+    "time": "2019-12-16 02:59:00",
+    "service": {
+      "name": "IUD Removal",
+      "price": -1
+    },
+    "location": {
+      "name": null,
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "b5b2dcd1-640f-48dc-9f5e-d28baa0b0976"
+  }
+]
